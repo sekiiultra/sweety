@@ -1,4 +1,4 @@
-Sweety Recoil V1 (Free Edition)
+Sweety Recoil V2
 
 is a Recoil reducer fully customisible based on key framework KeyAuth
 
